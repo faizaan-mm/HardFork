@@ -14,7 +14,7 @@ But there are several issues with how political fundraising is done currently:
 
 How the raised funds are appropriated is an issue. Political campaigns have many expenditures, such as the cost of travel of candidates and staff, political consulting, and the direct costs of communicating with voters via media outlets. Once a contributor transfers the money to the political candidate’s account, he no longer has a say in what the funds are being utilized for. This money can be misused by the candidate for his personal benefits. 
 
-**There is no publicly verifiable ledger to prove whether the funds were appropriated properly.**
+**There is no publicly verifiable ledger to prove where the funds came from or whether the funds were appropriated properly.**
 
 ## Proposed Solution
 
