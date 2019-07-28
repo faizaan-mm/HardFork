@@ -20,7 +20,9 @@ How the raised funds are appropriated is an issue. Political campaigns have many
 
 A Decentralised application(DApp) that provides a user a secure and transparent medium to donate to a political party for campaign purposes. The app records where donor money is spent and this information can be viewed publicly to enable voters to make an informed decision while voting.
 
-The smart contracts ensure that the amount donated by individuals is used for specific purposes as required by the party/candidate. Capital to be spent on each category of campaign expenditure is decided by in advance and the option is provided to donor to choose from. The Distributed ledger that keeps track of Fund utilization. 
+The smart contracts ensure that the amount donated by individuals is used for specific purposes as required by the party/candidate. Capital to be spent on each category of campaign expenditure is decided by in advance and the option is provided to donor to choose from.
+
+The funds which were received in the form of cryptocurrency can be used by party or candidates to make payments through the DApp. These transactions are captured in the distributed ledger. The Distributed ledger is made publicly available and provides the key statistics for the common folk to to help in decision making.
 
 This funding method will allow anyone to track the fund-raiding process in real time. Any questionable sources will be quickly identified under this system.
 
