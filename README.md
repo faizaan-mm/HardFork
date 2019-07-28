@@ -16,7 +16,7 @@ How the raised funds are appropriated is an issue. Political campaigns have many
 
 **There is no publicly verifiable ledger to prove whether the funds were appropriated properly.**
 
-## Prosoposed Solution
+## Proposed Solution
 
 A Decentralised application(DApp) that provides a user a secure and transparent medium to donate to a political party for campaign purposes. The app records where donor money is spent and this information can be viewed publicly to enable voters to make an informed decision while voting.
 
